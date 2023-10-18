@@ -1,8 +1,8 @@
-# Pretrained Language Models for Incremental Learning
+# Pretrained Language Models for Incremental Learning: Survey
 
-## Content
-- [Pretrained Language Models for Incremental Learning](#pretrained-language-models-for-incremental-learning)
-  - [Content](#content)
+## Contents
+- [Pretrained Language Models for Incremental Learning: Survey](#pretrained-language-models-for-incremental-learning-survey)
+  - [Contents](#contents)
   - [Introduction](#introduction)
   - [Survey](#survey)
   - [Resource](#resource)
