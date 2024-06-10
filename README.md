@@ -3,7 +3,6 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Contents
-- [Pretrained Language Models for Incremental Learning: Survey](#pretrained-language-models-for-incremental-learning-survey)
   - [Contents](#contents)
   - [Introduction](#introduction)
   - [Survey](#survey)
