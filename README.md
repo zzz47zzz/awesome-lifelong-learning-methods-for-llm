@@ -1,4 +1,4 @@
-# Lifelong Learning for Large Language Models: Resources
+# Awesome Lifelong Learning Methods for Large Language Models
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -11,7 +11,7 @@
 
 ## Introduction
 This repository collects awesome survey, resource, and paper for Lifelong Learning with Large Language Models. 
-Please refer to [this repository](https://github.com/zzz47zzz/pretrained-lm-for-incremental-learning) for implementation.
+Please refer to [this repository](https://github.com/zzz47zzz/codebase-for-incremental-learning-with-llm) for implementation.
 
 ## Survey
 - [Revisiting Class-Incremental Learning with Pre-Trained Models: Generalizability and Adaptivity are All You Need](https://arxiv.org/abs/2303.07338) (arXiv 2023.03)
@@ -21,6 +21,7 @@ Please refer to [this repository](https://github.com/zzz47zzz/pretrained-lm-for-
 - [Continual Learning of Natural Language Processing Tasks: A Survey](https://arxiv.org/abs/2211.12701)
 
 ## Codebase
+- https://github.com/zzz47zzz/codebase-for-incremental-learning-with-llm
 - https://github.com/UIC-Liu-Lab/ContinualLM
 - https://github.com/aimagelab/mammoth
 - https://github.com/zhoudw-zdw/RevisitingCIL
