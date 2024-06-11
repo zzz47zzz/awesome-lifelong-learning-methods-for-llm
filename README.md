@@ -11,9 +11,11 @@
 
 ## Introduction
 This repository collects awesome survey, resource, and paper for Lifelong Learning with Large Language Models. 
+Please refer to [this survey](https://arxiv.org/abs/2406.06391) for detailed introduction.
 Please refer to [this repository](https://github.com/zzz47zzz/codebase-for-incremental-learning-with-llm) for implementation.
 
 ## Survey
+- [Towards Lifelong Learning of Large Language Models: A Survey](https://arxiv.org/abs/2406.06391) (arXiv 2024.06)
 - [Revisiting Class-Incremental Learning with Pre-Trained Models: Generalizability and Adaptivity are All You Need](https://arxiv.org/abs/2303.07338) (arXiv 2023.03)
 - [Deep Class-Incremental Learning: A Survey](https://arxiv.org/abs/2302.03648) (arXiv 2023.03)
 - [A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://arxiv.org/abs/2302.00487) (arXiv 2023.02)
