@@ -16,6 +16,13 @@ Please refer to [this repository](https://github.com/zzz47zzz/codebase-for-incre
 
 ## Survey
 - [Towards Lifelong Learning of Large Language Models: A Survey](https://arxiv.org/abs/2406.06391) (arXiv 2024.06)
+- [Recent Advances of Foundation Language Models-based Continual Learning: A Survey](https://arxiv.org/abs/2405.18653) (arXiv 2024.05)
+- [Continual Learning of Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2404.16789) (arXiv 2024.04)
+- [Towards Incremental Learning in Large Language Models: A Critical Review](https://arxiv.org/abs/2404.18311) (arXiv 2024.04)
+- [Continual Learning for Large Language Models: A Survey](https://arxiv.org/abs/2402.01364) (arXiv 2024.02)
+- [Continual Learning with Pre-Trained Models: A Survey](https://arxiv.org/abs/2401.16386) (arXiv 2024.01)
+- [A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://ieeexplore.ieee.org/abstract/document/10444954) (TPAMI 2024)
+- [How Do Large Language Models Capture the Ever-changing World Knowledge? A Review of Recent Advances](https://aclanthology.org/2023.emnlp-main.516/) (EMNLP 2023)
 - [Revisiting Class-Incremental Learning with Pre-Trained Models: Generalizability and Adaptivity are All You Need](https://arxiv.org/abs/2303.07338) (arXiv 2023.03)
 - [Deep Class-Incremental Learning: A Survey](https://arxiv.org/abs/2302.03648) (arXiv 2023.03)
 - [A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://arxiv.org/abs/2302.00487) (arXiv 2023.02)
