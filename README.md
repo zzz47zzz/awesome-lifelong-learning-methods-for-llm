@@ -77,7 +77,7 @@ Please refer to [this repository](https://github.com/zzz47zzz/codebase-for-incre
 ![](https://img.shields.io/badge/Tool_Based_Lifelong_Learning-khaki) Tool-Based Lifelong Learning
 
 
-### Papers
+### Papers (The paper list will be updated regularly)
 #### 2024
 - **HOP to the Next Tasks and Domains for Continual Learning in NLP**, AAAI 2024. ![](https://img.shields.io/badge/Continual_Text_Classification-green) [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/29349/30546
 )]
