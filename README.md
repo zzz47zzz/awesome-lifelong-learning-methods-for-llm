@@ -77,8 +77,24 @@ Please refer to [this repository](https://github.com/zzz47zzz/codebase-for-incre
 ![](https://img.shields.io/badge/Tool_Based_Lifelong_Learning-khaki) Tool-Based Lifelong Learning
 
 
-### Papers (The paper list will be updated regularly)
+### Papers
 #### 2024
+- **CorpusBrain++: A Continual Generative Pre-Training Framework for Knowledge-Intensive Language Tasks**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) [[pdf](https://arxiv.org/pdf/2402.16767)] [[Code](https://github.com/Sherlock-coder/CorpusBrainPlusPlus)]
+
+- **Examining Forgetting in Continual Pre-training of Aligned Large Language Models**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) [[pdf](https://arxiv.org/pdf/2401.03129)] [[Code](https://github.com/lca0503/Llama_tw)]
+
+- **Rho-1: Not All Tokens Are What You Need**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) [[pdf](https://arxiv.org/pdf/2404.07965)] [[Code](https://github.com/microsoft/rho)]
+
+- **SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling**, NAACL 2024. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) [[pdf](https://arxiv.org/pdf/2312.15166)]
+
+- **LLaMA Pro: Progressive LLaMA with Block Expansion**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) [[pdf](https://arxiv.org/pdf/2401.02415)] [[Code](https://github.com/TencentARC/LLaMA-Pro)]
+
+- **Embracing Language Inclusivity and Diversity in CLIP through Continual Language Learning**, AAAI 2024. ![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange) [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/28466/28907)] [[Code](https://github.com/yangbang18/CLFM)]
+
+- **Simple and Scalable Strategies to Continually Pre-train Large Language Models**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange) [[pdf](https://arxiv.org/pdf/2403.08763)]
+
+- **Set the Clock: Temporal Alignment of Pretrained Language Models**, ACL (Findings) 2024. ![](https://img.shields.io/badge/Continual_Temporal_Domain_Pretraining-yellow) [[pdf](https://arxiv.org/pdf/2402.16797)] [[Code](https://github.com/yizhongw/llm-temporal-alignment)]
+
 - **HOP to the Next Tasks and Domains for Continual Learning in NLP**, AAAI 2024. ![](https://img.shields.io/badge/Continual_Text_Classification-green) [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/29349/30546
 )]
 
@@ -94,8 +110,54 @@ Please refer to [this repository](https://github.com/zzz47zzz/codebase-for-incre
 
 - **F-MALLOC: Feed-forward Memory Allocation for Continual Learning in Neural Machine Translation**, NAACL 2024. ![](https://img.shields.io/badge/Continual_Machine_Translation-violet) [[pdf](https://arxiv.org/pdf/2404.04846)] [[Code](https://github.com/WJMacro/ContinualMT)]
 
+- **SAPT: A Shared Attention Framework for Parameter-Efficient Continual Learning of Large Language Models**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2401.08295)]
+
+- **InsCL: A Data-efficient Continual Learning Paradigm for Fine-tuning Large Language Models with Instructions**, NAACL 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2403.11435)]
+
+- **Analyzing and Reducing Catastrophic Forgetting in Parameter Efficient Tuning**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2402.18865)] [[Code](https://github.com/which47/LLMCL)]
+
+- **Mitigating Catastrophic Forgetting in Large Language Models with Self-Synthesized Rehearsal**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2403.01244)]
+
+- **Scalable Language Model with Generalized Continual Learning**, ICLR 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://openreview.net/pdf?id=mz8owj4DXu)] [[Code](https://github.com/Pbihao/SLM)]
+
+- **Q-Tuning: Queue-based Prompt Tuning for Lifelong Few-shot Language**, NAACL (Findings) 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2404.14607)]
+
+- **MoRAL: MoE Augmented LoRA for LLMs' Lifelong Learning**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2402.11260)]
+
+- **WilKE: Wise-Layer Knowledge Editor for Lifelong Knowledge Editing**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Knowledge_Editing-black) [[pdf](https://arxiv.org/pdf/2402.10987)]
+
+- **CPPO: Continual Learning for Reinforcement Learning with Human Feedback**, ICLR 2024. ![](https://img.shields.io/badge/Continual_Alignment-lightgray) [[pdf](https://openreview.net/pdf?id=86zAUE80pP)] [[Code](https://openi.pcl.ac.cn/Hanlard/CPPO)]
+
+- **COPR: Continual Human Preference Learning via Optimal Policy Regularization**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Alignment-lightgray) [[pdf](https://arxiv.org/pdf/2402.14228)] [[Code](https://openi.pcl.ac.cn/Hanlard/Offline_alignment_methods_based_on_trlx.git)]
+
+- **Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection**, ICLR 2024. ![](https://img.shields.io/badge/Retrieval_Based_Lifelong_Learning-beige) [[pdf](https://openreview.net/pdf?id=hSyW5go0v8)] [[Code](https://github.com/AkariAsai/self-rag)]
+
+- **LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error**, Preprint 2024. ![](https://img.shields.io/badge/Tool_Based_Lifelong_Learning-khaki) [[pdf](https://arxiv.org/pdf/2403.04746)]
+
+- **Towards Practical Tool Usage for Continually Learning LLMs**, Preprint 2024. ![](https://img.shields.io/badge/Tool_Based_Lifelong_Learning-khaki) [[pdf](https://arxiv.org/pdf/2404.09339)]
+
+- **Confucius: Iterative Tool Learning from Introspection Feedback by Easy-to-Difficult Curriculum**, AAAI 2024. ![](https://img.shields.io/badge/Tool_Based_Lifelong_Learning-khaki) [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/29759/31307)]
+
+- **Toolllm: Facilitating large language models to master 16000+ real-world apis**, ICLR 2024. ![](https://img.shields.io/badge/Tool_Based_Lifelong_Learning-khaki) [[pdf](https://openreview.net/pdf?id=dHng2O0Jjr)] [[Code](https://github.com/OpenBMB/ToolBench)]
+
 
 #### 2023
+- **Continual Pre-Training of Large Language Models: How to (re)warm your model?**, ICML (Workshop) 2023. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) [[pdf](https://openreview.net/pdf?id=pg7PUJe0Tl)]
+
+- **EcomGPT-CT: Continual Pre-training of E-commerce Large Language Models with Semi-structured Data**, Preprint 2023. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) [[pdf](https://arxiv.org/pdf/2312.15696)]
+
+- **QUERT: Continual Pre-training of Language Model for Query Understanding in Travel Domain Search**, KDD 2023. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) [[pdf](https://dl.acm.org/doi/pdf/10.1145/3580305.3599891)] [[Code](https://github.com/hsaest/QUERT)]
+
+- **Recyclable Tuning for Continual Pre-training**, ACL (Findings) 2023. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) [[pdf](https://aclanthology.org/2023.findings-acl.723.pdf)] [[Code](https://github.com/thunlp/RecyclableTuning)]
+
+- **Large Language Models Encode Clinical Knowledge**, Nature 2023. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) [[pdf](https://arxiv.org/pdf/2212.13138)]
+
+- **Continual Learning Under Language Shift**, Preprint 2023. ![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange) [[pdf](https://arxiv.org/pdf/2311.01200v3)]
+
+- **Exploring Continual Learning for Code Generation Models**, ACL 2023. ![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange) [[pdf](https://aclanthology.org/2023.acl-short.68.pdf)] [[Code](https://github.com/amazon-science/codetask-cl-pptf)]
+
+- **Lifelong Language Pretraining with Distribution-Specialized Experts**, ICML 2023. ![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange) [[pdf](https://openreview.net/pdf?id=Q4QFG5Fe4O)]
+
 - **Mitigating Catastrophic Forgetting in Task-Incremental Continual Learning with Adaptive Classification Criterion**, Preprint 2023. ![](https://img.shields.io/badge/Continual_Text_Classification-green) [[pdf](https://arxiv.org/pdf/2305.12270)]
 
 - **Learn or Recall? Revisiting Incremental Learning with Pre-trained Language Models**, Preprint 2023. ![](https://img.shields.io/badge/Continual_Text_Classification-green) ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) ![](https://img.shields.io/badge/Continual_Relation_Extraction-blue) [[pdf](https://arxiv.org/pdf/2312.07887)] [[Code](https://github.com/zzz47zzz/pretrained-lm-for-incremental-learning)]
@@ -112,11 +174,11 @@ Please refer to [this repository](https://github.com/zzz47zzz/codebase-for-incre
 
 - **A Neural Span-Based Continual Named Entity Recognition Model**, AAAI 2023. ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/26638/26410)] [[Code](https://github.com/Qznan/SpanK)]
 
-- **Learning “O” Helps for Learning More： Handling the Unlabeled Entity Problem for Class-incremental NER**, ACL 2023. ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) [[pdf](https://aclanthology.org/2023.acl-long.328.pdf)] [[Code](https://github.com/rtmaww/O_CILNER)]
+- **Learning “O” Helps for Learning More: Handling the Unlabeled Entity Problem for Class-incremental NER**, ACL 2023. ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) [[pdf](https://aclanthology.org/2023.acl-long.328.pdf)] [[Code](https://github.com/rtmaww/O_CILNER)]
 
-- **Teamwork Is Not Always Good： An Empirical Study of Classifier Drift in Class-incremental Information Extraction**, ACL (Findings) 2023. ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) ![](https://img.shields.io/badge/Continual_Relation_Extraction-blue) [[pdf](https://aclanthology.org/2023.findings-acl.141.pdf)] [[Code](https://github.com/VT-NLP/ICE)]
+- **Teamwork Is Not Always Good: An Empirical Study of Classifier Drift in Class-incremental Information Extraction**, ACL (Findings) 2023. ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) ![](https://img.shields.io/badge/Continual_Relation_Extraction-blue) [[pdf](https://aclanthology.org/2023.findings-acl.141.pdf)] [[Code](https://github.com/VT-NLP/ICE)]
 
-- **ProtoNER： Few Shot Incremental Learning for Named Entity Recognition Using Prototypical Networks**, BPM 2023. ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) [[pdf](https://arxiv.org/pdf/2310.02372)]
+- **ProtoNER: Few Shot Incremental Learning for Named Entity Recognition Using Prototypical Networks**, BPM 2023. ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) [[pdf](https://arxiv.org/pdf/2310.02372)]
 
 - **Task Relation Distillation and Prototypical Pseudo Label for Incremental Named Entity Recognition**, CIKM 2023. ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) [[pdf](https://arxiv.org/pdf/2308.08793)] [[Code](https://github.com/BladeDancer957/INER_RDP)]
 
@@ -138,7 +200,7 @@ Please refer to [this repository](https://github.com/zzz47zzz/codebase-for-incre
 
 - **Serial Contrastive Knowledge Distillation for Continual Few-shot Relation Extraction**, ACL (Findings) 2023. ![](https://img.shields.io/badge/Continual_Relation_Extraction-blue) [[pdf](https://aclanthology.org/2023.findings-acl.804.pdf)] [[Code](https://github.com/nju-websoft/SCKD)]
 
-- **ICA-Proto： Iterative Cross Alignment Prototypical Network for Incremental Few-Shot Relation Classification**, EACL (Findings) 2023. ![](https://img.shields.io/badge/Continual_Relation_Extraction-blue) [[pdf](https://aclanthology.org/2023.findings-eacl.171.pdf)]
+- **ICA-Proto: Iterative Cross Alignment Prototypical Network for Incremental Few-Shot Relation Classification**, EACL (Findings) 2023. ![](https://img.shields.io/badge/Continual_Relation_Extraction-blue) [[pdf](https://aclanthology.org/2023.findings-eacl.171.pdf)]
 
 - **Serial Contrastive Knowledge Distillation for Continual Few-shot Relation Extraction**, ACL (Findings) 2023. ![](https://img.shields.io/badge/Continual_Relation_Extraction-blue) [[pdf](https://aclanthology.org/2023.findings-acl.804.pdf)] [[Code](https://github.com/nju-websoft/SCKD)]
 
@@ -148,8 +210,58 @@ Please refer to [this repository](https://github.com/zzz47zzz/codebase-for-incre
 
 - **Continual Learning for Multilingual Neural Machine Translation via Dual Importance-based Model Division**, EMNLP 2023. ![](https://img.shields.io/badge/Continual_Machine_Translation-violet) [[pdf](https://aclanthology.org/2023.emnlp-main.736.pdf)] [[Code](https://github.com/raburabu91/BVP4CL)]
 
+- **Prompts Can Play Lottery Tickets Well: Achieving Lifelong Information Extraction via Lottery Prompt Tuning**, ACL 2023. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://aclanthology.org/2023.acl-long.16.pdf)] [[Code](https://github.com/jokieleung/Lottery_Prompt)]
+
+- **Large-scale Lifelong Learning of In-context Instructions and How to Tackle It**, ACL 2023. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://aclanthology.org/2023.acl-long.703.pdf)]
+
+- **Generative Replay Inspired by Hippocampal Memory Indexing for Continual Language Learning**, EACL 2023. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://aclanthology.org/2023.eacl-main.65.pdf)] [[Code](https://github.com/arumaekawa/GR-HMI)]
+
+- **Lifelong Sequence Generation with Dynamic Module Expansion and Adaptation**, EMNLP 2023. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://aclanthology.org/2023.emnlp-main.414.pdf)]
+
+- **Orthogonal Subspace Learning for Language Model Continual Learning**, EMNLP (Findings) 2023. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://aclanthology.org/2023.findings-emnlp.715.pdf)] [[Code](https://github.com/cmnfriend/O-LoRA)]
+
+- **Sub-network Discovery and Soft-masking for Continual Learning of Mixed Tasks**, EMNLP (Findings) 2023. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://aclanthology.org/2023.findings-emnlp.1008.pdf)]
+
+- **Progressive Prompts: Continual Learning for Language Models**, ICLR 2023. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://openreview.net/pdf?id=UJTgQBc91_)] [[Code](https://github.com/arazd/ProgressivePrompts)]
+
+- **Methods for Measuring, Updating, and Visualizing Factual Beliefs in Language Models**, EACL 2023. ![](https://img.shields.io/badge/Continual_Knowledge_Editing-black) [[pdf](https://aclanthology.org/2023.eacl-main.199.pdf)] [[Code](https://github.com/peterbhase/SLAG-Belief-Updating)]
+
+- **Aging with GRACE: Lifelong Model Editing with Key-Value Adaptors**, ICLR 2023. ![](https://img.shields.io/badge/Continual_Knowledge_Editing-black) [[pdf](https://openreview.net/pdf?id=ngCT1EelZk)]
+
+- **Transformer-Patcher: One Mistake worth One Neuron**, ICLR 2023. ![](https://img.shields.io/badge/Continual_Knowledge_Editing-black) [[pdf](https://openreview.net/pdf?id=4oYUGeGBPm)] [[Code](https://github.com/ZeroYuHuang/Transformer-Patcher)]
+
+- **Mitigating the Alignment Tax of RLHF**, Preprint 2023. ![](https://img.shields.io/badge/Continual_Alignment-lightgray) [[pdf](https://arxiv.org/pdf/2309.06256)]
+
+- **Tree of Clarifications: Answering Ambiguous Questions with Retrieval-Augmented Large Language Models**, EMNLP 2023. ![](https://img.shields.io/badge/Retrieval_Based_Lifelong_Learning-beige) [[pdf](https://aclanthology.org/2023.emnlp-main.63.pdf)] [[Code](https://github.com/gankim/tree-of-clarifications)]
+
+- **Active Retrieval Augmented Generation**, EMNLP 2023. ![](https://img.shields.io/badge/Retrieval_Based_Lifelong_Learning-beige) [[pdf](https://aclanthology.org/2023.emnlp-main.495.pdf)] [[Code](https://github.com/jzbjyb/FLARE)]
+
+- **Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions**, ACL 2023. ![](https://img.shields.io/badge/Retrieval_Based_Lifelong_Learning-beige) [[pdf](https://aclanthology.org/2023.acl-long.557.pdf)] [[Code](https://github.com/stonybrooknlp/ircot)]
+
+- **Toolalpaca: Generalized tool learning for language models with 3000 simulated cases**, Preprint 2023. ![](https://img.shields.io/badge/Tool_Based_Lifelong_Learning-khaki) [[pdf](https://arxiv.org/pdf/2306.05301)] [[Code](https://github.com/tangqiaoyu/ToolAlpaca)]
+
+- **Gorilla: Large language model connected with massive apis**, Preprint 2023. ![](https://img.shields.io/badge/Tool_Based_Lifelong_Learning-khaki) [[pdf](https://arxiv.org/pdf/2305.15334)] [[Code](https://github.com/ShishirPatil/gorilla)]
+
+- **Chameleon: Plug-and-play compositional reasoning with large language models**, NIPS 2023. ![](https://img.shields.io/badge/Tool_Based_Lifelong_Learning-khaki) [[pdf](https://openreview.net/pdf?id=HtqnVSCj3q)] [[Code](https://github.com/lupantech/chameleon-llm)]
+
+- **Toolformer: Language Models Can Teach Themselves to Use Tools**, NIPS 2023. ![](https://img.shields.io/badge/Tool_Based_Lifelong_Learning-khaki) [[pdf](https://openreview.net/pdf?id=Yacmpz84TH)]
+
+- **GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction**, NIPS 2023. ![](https://img.shields.io/badge/Tool_Based_Lifelong_Learning-khaki) [[pdf](https://openreview.net/pdf?id=cwjh8lqmOL)] [[Code](https://github.com/AILab-CVC/GPT4Tools)]
+
 
 #### 2022
+- **Continual Pre-Training Mitigates Forgetting in Language and Vision**, Preprint 2022. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) [[pdf](https://arxiv.org/pdf/2205.09357)] [[Code](https://github.com/AndreaCossu/continual-pretraining-nlp-vision)]
+
+- **ELLE: Efficient Lifelong Pre-training for Emerging Data**, ACL (Findings) 2022. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) [[pdf](https://aclanthology.org/2022.findings-acl.220.pdf)] [[Code](https://github.com/thunlp/ELLE)]
+
+- **Lifelong Pretraining: Continually Adapting Language Models to Emerging Corpora**, ACL (Workshop) 2022. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) [[pdf](https://aclanthology.org/2022.bigscience-1.1.pdf)]
+
+- **bert2BERT: Towards Reusable Pretrained Language Models**, ACL 2022. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) [[pdf](https://aclanthology.org/2022.acl-long.151.pdf)] [[Code](https://github.com/huawei-noah/Pretrained-Language-Model)]
+
+- **Time Waits for No One! Analysis and Challenges of Temporal Misalignment**, NAACL 2022. ![](https://img.shields.io/badge/Continual_Temporal_Domain_Pretraining-yellow) [[pdf](https://aclanthology.org/2022.naacl-main.435.pdf)] [[Code](https://github.com/Kel-Lu/time-waits-for-no-one)]
+
+- **TimeLMs: Diachronic Language Models from Twitter**, ACL 2022. ![](https://img.shields.io/badge/Continual_Temporal_Domain_Pretraining-yellow) [[pdf](https://aclanthology.org/2022.acl-demo.25.pdf)] [[Code](https://github.com/cardiffnlp/timelms)]
+
 - **Continual Few-shot Intent Detection**, COLING 2022. ![](https://img.shields.io/badge/Continual_Text_Classification-green) [[pdf](https://aclanthology.org/2022.coling-1.26.pdf)]
 
 - **Incremental Intent Detection for Medical Domain with Contrast Replay Networks**, ACL (Findings) 2022. ![](https://img.shields.io/badge/Continual_Text_Classification-green) [[pdf](https://aclanthology.org/2022.findings-acl.280.pdf)]
@@ -164,17 +276,17 @@ Please refer to [this repository](https://github.com/zzz47zzz/codebase-for-incre
 
 - **Few-Shot Class-Incremental Learning for Named Entity Recognition**, ACL 2022. ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) [[pdf](https://aclanthology.org/2022.acl-long.43.pdf)]
 
-- **Learn and Review： Enhancing Continual Named Entity Recognition via Reviewing Synthetic Samples**, ACL (Findings) 2022. ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) [[pdf](https://aclanthology.org/2022.findings-acl.179.pdf)]
+- **Learn and Review: Enhancing Continual Named Entity Recognition via Reviewing Synthetic Samples**, ACL (Findings) 2022. ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) [[pdf](https://aclanthology.org/2022.findings-acl.179.pdf)]
 
-- **Incremental Prompting：Episodic Memory Prompt for Lifelong Event Dectection**, COLING 2022. ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) [[pdf](https://aclanthology.org/2022.coling-1.189.pdf)] [[Code](https://github.com/VT-NLP/Incremental_Prompting)]
+- **Incremental Prompting: Episodic Memory Prompt for Lifelong Event Dectection**, COLING 2022. ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) [[pdf](https://aclanthology.org/2022.coling-1.189.pdf)] [[Code](https://github.com/VT-NLP/Incremental_Prompting)]
 
 - **Distilling Causal Effect from Miscellaneous Other-Class for Continual Named Entity Recognition**, EMNLP 2022. ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) [[pdf](https://aclanthology.org/2022.emnlp-main.236.pdf)] [[Code](https://github.com/zzz47zzz/CFNER)]
 
-- **BNU： A Balance-Normalization-Uncertainty Model for Incremental Event Detection**, ICASSP 2022. ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747708)]
+- **BNU: A Balance-Normalization-Uncertainty Model for Incremental Event Detection**, ICASSP 2022. ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747708)]
 
 - **Similarity-Driven Adaptive Prototypical Network for Class-incremental Few-shot Named Entity Recognition**, ICTAI 2022. ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10097986)]
 
-- **HEFT： A History-Enhanced Feature Transfer framework for incremental event detection**, KBS 2022. ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) [[pdf](https://pdf.sciencedirectassets.com/271505/1-s2.0-S0950705122X00166/1-s2.0-S0950705122008061/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIDGej%2BZ9m2J2ytK5w36KWKcEv3gThuaWIHufatpHidkTAiEAjJYEcHYhW01TAkVvFeUvqUbfrBdHwQcYMnxxmjet93YquwUI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDKzZZZZI3SMAHjMbuyqPBaAhyjLItjCl3zFmft%2BxDfWV2MfRrhy5%2Bdf5DpBoJjDrC4IrsKr5iocT0pD31pIiLMMSElG7KE84hTmE8dgkX5%2FRloLcvTuKCjuVs6fVJvRCspsveqr7upGzXl0DgKrMbCsGO%2BegT%2BDP7YcoHveQbZIryNAucTz7YJAU5NzAaF9ZbMV8UkiGfiVeo4PzK7hfliJuIYhpmCOE9PQsmuXlOlJIojXndgiJwW0x53Zk6zji9oxbbtHkCtDtG4fmK%2BAcjjarclM5Ih9iSHSU32N1Ez8FTGLt98Ta6T4AdIUjZynMR%2FVQCg4s9w%2BZup%2FUma3vsKvCdUGTNLAhugf6k9Y2p5%2FkEpyzxAuVAE5cbkthVbfZwAbpQZZlausIsq8zZoj%2F9A9liO8h4L4s%2BJ5WVA5sH3WTMAlVwFoW6nNIGSj3tbhWWudVvkrBcqTW5DnG%2BTSKH4Qns%2FEweyusiLmzx0eTQB9JjVdwgDs5iFO2KvQdmn%2F2NfLjSKJY1mO0TN%2BLn1f5G%2FyCBmthNJyNz0dyrUzkt5u%2Fvp6SBXXbwezklK%2FZJiAgKK7m4P4ocS%2B5yC%2B1ueXS2REcznQRFRzTIhU6kcT4uDt92wqIIaN23jQ16QVgn8U27%2Fn1kzEFqqh5FFly3r6zYOFgNtz8OuX9vdCif3pIwuZb9TDpCdQ6mIC7z3pWHzFwvHPBhmzHmI7WMSn%2FROlEXid2%2FpzFSe4laBDIgQv0yDa8BxlKHlZxt3vHi51z%2FXgZRBttoRsnU4H2cBPhUBoxDvcgsEntJF%2Br4Lm2DTFOm2mwKiND7tBcijwxErP9caOOZ6ZdLSeU9NYXYdrC8yMhUIFEtG9ysZaFLBp6AjQeCNIJsXrXrbBmmh3t8xukPLUwrumisgY6sQFh7rJYe3CCejqSjvILn5KdJ%2BE%2BiPN1D7zZ%2Fun1nTwKoH3U%2FktdVr%2FOmjv22mOdUduSvEv69pq97JwEYOmlIp42GlobQ9kzOriOiJ727M92UfjMhSPrwTcSmvLeTb54gLhmcLuiS0WZBdUfx%2F2XEYuahDYuLrcbCTH2m4InSytNbOeAWWIlTAnosDjEsHd2JlSk1V70ej13StBo5ZXYjfNllXbd2R%2Fw1kMOoYZTAK9QI9E%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240518T150930Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY5532AY56%2F20240518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=0f8e27f71a9a02306eee68911d2f0c2052ddbb046c6b91e476011c97eb80ec65&hash=e2913561864f523ed8763a508a574ea73fa2022b9b6490a137d91cdc987b830a&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0950705122008061&tid=spdf-4425fead-8428-44a4-85ca-dc5f5464a640&sid=3682f588522cd0438f8ac403cedfc1eb08f0gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0d095d565b0d0355&rr=885cc4c5cb9284b5&cc=cn)]
+- **HEFT: A History-Enhanced Feature Transfer framework for incremental event detection**, KBS 2022. ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) [[pdf](https://pdf.sciencedirectassets.com/271505/1-s2.0-S0950705122X00166/1-s2.0-S0950705122008061/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIDGej%2BZ9m2J2ytK5w36KWKcEv3gThuaWIHufatpHidkTAiEAjJYEcHYhW01TAkVvFeUvqUbfrBdHwQcYMnxxmjet93YquwUI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDKzZZZZI3SMAHjMbuyqPBaAhyjLItjCl3zFmft%2BxDfWV2MfRrhy5%2Bdf5DpBoJjDrC4IrsKr5iocT0pD31pIiLMMSElG7KE84hTmE8dgkX5%2FRloLcvTuKCjuVs6fVJvRCspsveqr7upGzXl0DgKrMbCsGO%2BegT%2BDP7YcoHveQbZIryNAucTz7YJAU5NzAaF9ZbMV8UkiGfiVeo4PzK7hfliJuIYhpmCOE9PQsmuXlOlJIojXndgiJwW0x53Zk6zji9oxbbtHkCtDtG4fmK%2BAcjjarclM5Ih9iSHSU32N1Ez8FTGLt98Ta6T4AdIUjZynMR%2FVQCg4s9w%2BZup%2FUma3vsKvCdUGTNLAhugf6k9Y2p5%2FkEpyzxAuVAE5cbkthVbfZwAbpQZZlausIsq8zZoj%2F9A9liO8h4L4s%2BJ5WVA5sH3WTMAlVwFoW6nNIGSj3tbhWWudVvkrBcqTW5DnG%2BTSKH4Qns%2FEweyusiLmzx0eTQB9JjVdwgDs5iFO2KvQdmn%2F2NfLjSKJY1mO0TN%2BLn1f5G%2FyCBmthNJyNz0dyrUzkt5u%2Fvp6SBXXbwezklK%2FZJiAgKK7m4P4ocS%2B5yC%2B1ueXS2REcznQRFRzTIhU6kcT4uDt92wqIIaN23jQ16QVgn8U27%2Fn1kzEFqqh5FFly3r6zYOFgNtz8OuX9vdCif3pIwuZb9TDpCdQ6mIC7z3pWHzFwvHPBhmzHmI7WMSn%2FROlEXid2%2FpzFSe4laBDIgQv0yDa8BxlKHlZxt3vHi51z%2FXgZRBttoRsnU4H2cBPhUBoxDvcgsEntJF%2Br4Lm2DTFOm2mwKiND7tBcijwxErP9caOOZ6ZdLSeU9NYXYdrC8yMhUIFEtG9ysZaFLBp6AjQeCNIJsXrXrbBmmh3t8xukPLUwrumisgY6sQFh7rJYe3CCejqSjvILn5KdJ%2BE%2BiPN1D7zZ%2Fun1nTwKoH3U%2FktdVr%2FOmjv22mOdUduSvEv69pq97JwEYOmlIp42GlobQ9kzOriOiJ727M92UfjMhSPrwTcSmvLeTb54gLhmcLuiS0WZBdUfx%2F2XEYuahDYuLrcbCTH2m4InSytNbOeAWWIlTAnosDjEsHd2JlSk1V70ej13StBo5ZXYjfNllXbd2R%2Fw1kMOoYZTAK9QI9E%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240518T150930Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY5532AY56%2F20240518%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=0f8e27f71a9a02306eee68911d2f0c2052ddbb046c6b91e476011c97eb80ec65&hash=e2913561864f523ed8763a508a574ea73fa2022b9b6490a137d91cdc987b830a&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0950705122008061&tid=spdf-4425fead-8428-44a4-85ca-dc5f5464a640&sid=3682f588522cd0438f8ac403cedfc1eb08f0gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0d095d565b0d0355&rr=885cc4c5cb9284b5&cc=cn)]
 
 - **Consistent Representation Learning for Continual Relation Extraction**, ACL (Findings) 2022. ![](https://img.shields.io/badge/Continual_Relation_Extraction-blue) [[pdf](https://aclanthology.org/2022.findings-acl.268.pdf)] [[Code](https://github.com/thuiar/CRL)]
 
@@ -188,27 +300,47 @@ Please refer to [this repository](https://github.com/zzz47zzz/codebase-for-incre
 
 - **Prompt-based prototypical framework for continual relation extraction**, TASLP 2022. ![](https://img.shields.io/badge/Continual_Relation_Extraction-blue) [[pdf](https://dl.acm.org/doi/pdf/10.1109/TASLP.2022.3199655)]
 
-- **Overcoming Catastrophic Forgetting beyond Continual Learning： Balanced Training for Neural Machine Translation**, ACL 2022. ![](https://img.shields.io/badge/Continual_Machine_Translation-violet) [[pdf](https://aclanthology.org/2022.acl-long.143.pdf)] [[Code](https://github.com/ictnlp/COKD)]
+- **Overcoming Catastrophic Forgetting beyond Continual Learning: Balanced Training for Neural Machine Translation**, ACL 2022. ![](https://img.shields.io/badge/Continual_Machine_Translation-violet) [[pdf](https://aclanthology.org/2022.acl-long.143.pdf)] [[Code](https://github.com/ictnlp/COKD)]
 
-- **CLLE： A Benchmark for Continual Language Learning Evaluation in Multilingual Machine Translation**, EMNLP (Findings) 2022. ![](https://img.shields.io/badge/Continual_Machine_Translation-violet) [[pdf](https://aclanthology.org/2022.findings-emnlp.30.pdf)] [[Code](https://github.com/HITSZ-HLT/CLLE)]
+- **CLLE: A Benchmark for Continual Language Learning Evaluation in Multilingual Machine Translation**, EMNLP (Findings) 2022. ![](https://img.shields.io/badge/Continual_Machine_Translation-violet) [[pdf](https://aclanthology.org/2022.findings-emnlp.30.pdf)] [[Code](https://github.com/HITSZ-HLT/CLLE)]
 
 - **Continual Learning of Neural Machine Translation within Low Forgetting Risk Regions**, EMNLP 2022. ![](https://img.shields.io/badge/Continual_Machine_Translation-violet) [[pdf](https://aclanthology.org/2022.emnlp-main.111.pdf)] [[Code](https://github.com/ictnlp/LFR-NMT)]
 
 - **Entropy-Based Vocabulary Substitution for Incremental Learning in Multilingual Neural Machine Translation**, EMNLP 2022. ![](https://img.shields.io/badge/Continual_Machine_Translation-violet) [[pdf](https://aclanthology.org/2022.emnlp-main.720/)] [[Code](https://github.com/koukaiu/evs)]
 
+- **Continual Sequence Generation with Adaptive Compositional Modules**, ACL 2022. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://aclanthology.org/2022.acl-long.255.pdf)] [[Code](https://github.com/GT-SALT/Adaptive-Compositional-Modules)]
+
+- **ConTinTin: Continual Learning from Task Instructions**, ACL 2022. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://aclanthology.org/2022.acl-long.218.pdf)]
+
+- **Continual Prompt Tuning for Dialog State Tracking**, ACL 2022. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://aclanthology.org/2022.acl-long.80.pdf)] [[Code](https://github.com/thu-coai/cpt4dst)]
+
+- **Prompt Conditioned VAE: Enhancing Generative Replay for Lifelong Learning in Task-Oriented Dialogue**, EMNLP 2022. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://aclanthology.org/2022.emnlp-main.766.pdf)] [[Code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/pcll)]
+
+- **Fine-tuned Language Models are Continual Learners**, EMNLP 2022. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://aclanthology.org/2022.emnlp-main.410.pdf)] [[Code](https://github.com/ThomasScialom/T0_continual_learning)]
+
+- **LFPT5: A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5**, ICLR 2022. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://openreview.net/pdf?id=HCRVf71PMF)] [[Code](https://github.com/qcwthu/Lifelong-Fewshot-Language-Learning)]
+
+- **Plug-and-Play Adaptation for Continuously-updated QA**, ACL (Findings) 2022. ![](https://img.shields.io/badge/Continual_Knowledge_Editing-black) [[pdf](https://aclanthology.org/2022.findings-acl.37.pdf)] [[Code](https://github.com/wookjeHan/Continual-Plug-and-Adapt-for-CuQA/)]
+
 
 #### 2021
+- **Temporal Adaptation of BERT and Performance on Downstream Document Classification: Insights from Social Media**, EMNLP (Findings) 2021. ![](https://img.shields.io/badge/Continual_Temporal_Domain_Pretraining-yellow) [[pdf](https://aclanthology.org/2021.findings-emnlp.206.pdf)] [[Code](https://github.com/paul-rottger/temporal-adaptation)]
+
+- **ECONET: Effective Continual Pretraining of Language Models for Event Temporal Reasoning**, EMNLP 2021. ![](https://img.shields.io/badge/Continual_Temporal_Domain_Pretraining-yellow) [[pdf](https://aclanthology.org/2021.emnlp-main.436.pdf)] [[Code](https://github.com/PlusLabNLP/ECONET)]
+
+- **Mind the Gap: Assessing Temporal Generalization in Neural Language Models**, NIPS 2021. ![](https://img.shields.io/badge/Continual_Temporal_Domain_Pretraining-yellow) [[pdf](https://openreview.net/pdf?id=73OmmrCfSyy)] [[Code](https://github.com/google-deepmind/deepmind-research/tree/master/pitfalls_static_language_models)]
+
 - **Learning to Solve NLP Tasks in an Incremental Number of Languages**, ACL 2021. ![](https://img.shields.io/badge/Continual_Text_Classification-green) [[pdf](https://aclanthology.org/2021.acl-short.106.pdf)]
 
 - **Adapting BERT for Continual Learning of a Sequence of Aspect Sentiment Classification Tasks**, NAACL 2021. ![](https://img.shields.io/badge/Continual_Text_Classification-green) [[pdf](https://aclanthology.org/2021.naacl-main.378.pdf)] [[Code](https://github.com/ZixuanKe/PyContinual)]
 
-- **CLASSIC： Continual and Contrastive Learning of Aspect Sentiment Classification Tasks**, EMNLP 2021. ![](https://img.shields.io/badge/Continual_Text_Classification-green) [[pdf](https://aclanthology.org/2021.emnlp-main.550.pdf)] [[Code](https://github.com/ZixuanKe/PyContinual)]
+- **CLASSIC: Continual and Contrastive Learning of Aspect Sentiment Classification Tasks**, EMNLP 2021. ![](https://img.shields.io/badge/Continual_Text_Classification-green) [[pdf](https://aclanthology.org/2021.emnlp-main.550.pdf)] [[Code](https://github.com/ZixuanKe/PyContinual)]
 
 - **Continual Learning for Text Classification with Information Disentanglement Based Regularization**, NAACL 2021. ![](https://img.shields.io/badge/Continual_Text_Classification-green) [[pdf](https://aclanthology.org/2021.naacl-main.218.pdf)] [[Code](https://github.com/GT-SALT/IDBR)]
 
 - **Hyperparameter-free Continuous Learning for Domain Classification in Natural Language Understanding**, NAACL 2021. ![](https://img.shields.io/badge/Continual_Text_Classification-green) [[pdf](https://aclanthology.org/2021.naacl-main.212.pdf)] [[Code](https://github.com/tinghua-code/CCFI)]
 
-- **Incremental Few-shot Text Classification with Multi-round New Classes： Formulation, Dataset and System**, NAACL 2021. ![](https://img.shields.io/badge/Continual_Text_Classification-green) [[pdf](https://aclanthology.org/2021.naacl-main.106.pdf)] [[Code](https://github.com/congyingxia/IncrementalFSTC)]
+- **Incremental Few-shot Text Classification with Multi-round New Classes: Formulation, Dataset and System**, NAACL 2021. ![](https://img.shields.io/badge/Continual_Text_Classification-green) [[pdf](https://aclanthology.org/2021.naacl-main.106.pdf)] [[Code](https://github.com/congyingxia/IncrementalFSTC)]
 
 - **Achieving Forgetting Prevention and Knowledge Transfer in Continual Learning**, NIPS 2021. ![](https://img.shields.io/badge/Continual_Text_Classification-green) [[pdf](https://proceedings.neurips.cc/paper_files/paper/2021/file/bcd0049c35799cdf57d06eaf2eb3cff6-Paper.pdf)] [[Code](https://github.com/ZixuanKe/PyContinual)]
 
@@ -234,6 +366,14 @@ Please refer to [this repository](https://github.com/zzz47zzz/codebase-for-incre
 
 - **Towards Continual Learning for Multilingual Machine Translation via Vocabulary Substitution**, NAACL 2021. ![](https://img.shields.io/badge/Continual_Machine_Translation-violet) [[pdf](https://aclanthology.org/2021.naacl-main.93.pdf)]
 
+- **Rational LAMOL: A rationale-based lifelong learning framework**, ACL 2021. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://aclanthology.org/2021.acl-long.229.pdf)] [[Code](https://github.com/kanwatchara-k/r_lamol)]
+
+- **Continual Learning for Task-oriented Dialogue System with Iterative Network Pruning, Expanding and Masking**, ACL 2021. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://aclanthology.org/2021.acl-short.66.pdf)] [[Code](https://github.com/siat-nlp/TPEM)]
+
+- **Learn Continually, Generalize Rapidly: Lifelong Knowledge Accumulation for Few-shot Learning**, EMNLP (Findings) 2021. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://aclanthology.org/2021.findings-emnlp.62.pdf)] [[Code](https://github.com/INK-USC/CLIF)]
+
+- **Continual Learning in Task-Oriented Dialogue Systems**, EMNLP 2021. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://aclanthology.org/2021.emnlp-main.590.pdf)] [[Code](https://github.com/andreamad8/ToDCL)]
+
 
 #### 2020
 - **Incremental Event Detection via Knowledge Consolidation Networks**, EMNLP 2020. ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) [[pdf](https://aclanthology.org/2020.emnlp-main.52.pdf)] [[Code](https://github.com/CPF-NLPR/IncrementalED)]
@@ -241,6 +381,16 @@ Please refer to [this repository](https://github.com/zzz47zzz/codebase-for-incre
 - **Continual Relation Learning via Episodic Memory Activation and Reconsolidation**, ACL 2020. ![](https://img.shields.io/badge/Continual_Relation_Extraction-blue) [[pdf](https://aclanthology.org/2020.acl-main.573.pdf)] [[Code](https://github.com/thunlp/ContinualRE)]
 
 - **Findings of the First Shared Task on Lifelong Learning Machine Translation**, WMT 2020. ![](https://img.shields.io/badge/Continual_Machine_Translation-violet) [[pdf](https://aclanthology.org/2020.wmt-1.2.pdf)]
+
+- **Distill and Replay for Continual Language Learning**, COLING 2020. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://aclanthology.org/2020.coling-main.318.pdf)]
+
+- **Continual Learning for Natural Language Generation in Task-oriented Dialog Systems**, EMNLP (Findings) 2020. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://aclanthology.org/2020.findings-emnlp.310.pdf)] [[Code](https://github.com/MiFei/Continual-Learning-for-NLG)]
+
+- **LAMOL: LAnguage MOdeling for Lifelong Language Learning**, ICLR 2020. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://openreview.net/pdf?id=Skgxcn4YDS)] [[Code](https://github.com/jojotenya/LAMOL)]
+
+- **Dense Passage Retrieval for Open-Domain Question Answering**, EMNLP 2020. ![](https://img.shields.io/badge/Retrieval_Based_Lifelong_Learning-beige) [[pdf](https://aclanthology.org/2020.emnlp-main.550.pdf)] [[Code](https://github.com/facebookresearch/DPR)]
+
+- **Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks**, NIPS 2020. ![](https://img.shields.io/badge/Retrieval_Based_Lifelong_Learning-beige) [[pdf](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)] [[Code](https://github.com/huggingface/transformers)]
 
 
 #### 2019
@@ -251,6 +401,8 @@ Please refer to [this repository](https://github.com/zzz47zzz/codebase-for-incre
 - **Sentence Embedding Alignment for Lifelong Relation Extraction**, NAACL 2019. ![](https://img.shields.io/badge/Continual_Relation_Extraction-blue) [[pdf](https://aclanthology.org/N19-1086.pdf)] [[Code](https://github.com/hongwang600/Lifelong_Relation_Detection)]
 
 - **From Bilingual to Multilingual Neural Machine Translation by Incremental Training**, JASIST 2019. ![](https://img.shields.io/badge/Continual_Machine_Translation-violet) [[pdf](https://aclanthology.org/P19-2033.pdf)]
+
+- **Incremental Learning from Scratch for Task-Oriented Dialogue Systems**, ACL 2019. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://aclanthology.org/P19-1361.pdf)] [[Code](https://github.com/Leechikara/Incremental-Dialogue-System)]
 
 
 #### 2018
