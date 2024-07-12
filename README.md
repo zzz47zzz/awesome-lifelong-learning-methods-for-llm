@@ -1,4 +1,4 @@
-# Awesome Lifelong Learning Methods for Large Language Models
+# Awesome Lifelong Learning Methods for Large Language Models (Updated Regularly)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -79,7 +79,7 @@ Please refer to [this repository](https://github.com/zzz47zzz/codebase-for-incre
 
 
 ### Papers
-#### 2024
+#### 2024 (2024.01-2024.04)
 - **CorpusBrain++: A Continual Generative Pre-Training Framework for Knowledge-Intensive Language Tasks**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) [[pdf](https://arxiv.org/pdf/2402.16767)] [[Code](https://github.com/Sherlock-coder/CorpusBrainPlusPlus)]
 
 - **Examining Forgetting in Continual Pre-training of Aligned Large Language Models**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) [[pdf](https://arxiv.org/pdf/2401.03129)] [[Code](https://github.com/lca0503/Llama_tw)]
