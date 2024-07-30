@@ -1,4 +1,4 @@
-# Awesome Lifelong Learning Methods for Large Language Models (Updated Regularly)
+# Awesome Lifelong Learning Methods for Large Language Models (Updated Regularly, Add Papers from ACL 2024)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -77,10 +77,107 @@ Please refer to [this repository](https://github.com/zzz47zzz/codebase-for-incre
 
 ![](https://img.shields.io/badge/Tool_Based_Lifelong_Learning-khaki) Tool-Based Lifelong Learning
 
+![](https://img.shields.io/badge/Mechanism-gray) Mechanism
+
 
 ### Papers
+
+#### 2024 (2024.08-2024.10)
+
+Coming soon!
+
 #### 2024 (2024.05-2024.07)
-Coming soon !
+
+- **Unlocking Continual Learning Abilities in Language Models**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2406.17245)] [[Code](https://github.com/wenyudu/MIGU)]
+
+- **Large Language Model Can Continue Evolving From Mistakes**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2404.08707)]
+
+- **D-CPT Law: Domain-specific Continual Pre-Training Scaling Law for Large Language Models**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) [[pdf](https://arxiv.org/pdf/2406.01375)]
+
+- **COPAL: Continual Pruning in Large Language Generative Models**, ICML 2024. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) [[pdf](https://arxiv.org/pdf/2405.02347)]
+
+- **Leave No Context Behind: Efficient Infinite Context Transformers with Infini-attention**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) [[pdf](https://arxiv.org/pdf/2404.07143)]
+
+- **AdapterSwap: Continuous Training of LLMs with Data Removal and Access-Control Guarantees**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) [[pdf](https://arxiv.org/pdf/2404.08417)]
+
+- **Efficient Continual Pre-training for Building Domain Specific Large Language Models**, ACL (Findings) 2024. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) [[pdf](https://arxiv.org/pdf/2311.08545)]
+
+- **Mitigating Catastrophic Forgetting in Language Transfer via Model Merging**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange) ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2407.08699v1)]
+
+- **Reuse, Don’t Retrain: A Recipe for Continued Pretraining of Language Models**, NIPS 2023. ![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange) [[pdf](https://arxiv.org/pdf/2407.07263v1)]
+
+- **Breaking Language Barriers: Cross-Lingual Continual Pre-Training at Scale**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange) [[pdf](https://www.arxiv.org/pdf/2407.02118)]
+
+- **MoE-CT: A Novel Approach For Large Language Models Training With Resistance To Catastrophic Forgetting**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange) [[pdf](https://arxiv.org/pdf/2407.00875)]
+
+- **Leitner-Guided Memory Replay for Cross-lingual Continual Learning**, NAACL 2024. ![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange) [[pdf](https://aclanthology.org/2024.naacl-long.432.pdf)] [[Code](https://github.com/meryemmhamdi1/x-continuous-learning/tree/main/humanlearn)]
+
+- **BAMBINO-LM: (Bilingual-)Human-Inspired Continual Pretraining of BabyLM**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange) [[pdf](https://arxiv.org/pdf/2406.11418)] [[Code](https://github.com/babylm/babylm_data_preprocessing)]
+
+- **Improving Language Models Trained with Translated Data via Continual Pre-Training and Dictionary Learning Analysis**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange) [[pdf](https://arxiv.org/pdf/2405.14277)]
+
+- **Boosting Large Language Models with Continual Learning for Aspect-based Sentiment Analysis**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Text_Classification-green) [[pdf](https://arxiv.org/pdf/2405.05496)]
+
+- **ChronosLex: Time-aware Incremental Training for Temporal Generalization of Legal Classification Tasks**, ACL 2024. ![](https://img.shields.io/badge/Continual_Text_Classification-green) [[pdf](https://arxiv.org/pdf/2405.14211)]
+
+- **XMC-Agent : Dynamic Navigation over Scalable Hierarchical Index for Incremental Extreme Multi-label Classification**, ACL (Findings) 2024. ![](https://img.shields.io/badge/Continual_Text_Classification-green) [[pdf](https://openreview.net/pdf?id=RQTgBAGNoi)]
+
+- **Flexible Weight Tuning and Weight Fusion Strategies for Continual Named Entity Recognition**, ACL (Findings) 2024. ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen)
+
+- **Distilling Causal Effect of Data in Continual Few-shot Relation Learning**, LREC-COLING 2024. ![](https://img.shields.io/badge/Continual_Relation_Extraction-blue) [[pdf](https://aclanthology.org/2024.lrec-main.451.pdf)] [[Code](https://github.com/ywh140/CECF)]
+
+- **Improving Continual Few-shot Relation Extraction through Relational Knowledge Distillation and Prototype Augmentation**, LREC-COLING 2024. ![](https://img.shields.io/badge/Continual_Relation_Extraction-blue) [[pdf](https://aclanthology.org/2024.lrec-main.767.pdf)]
+
+- **Enhancing Contrastive Learning with Noise-Guided Attack: Towards Continual Relation Extraction in the Wild**, ACL 2024. ![](https://img.shields.io/badge/Continual_Relation_Extraction-blue) [[pdf](https://arxiv.org/pdf/2305.07085)]
+
+- **An Ensemble-of-Experts Framework for Rehearsal-free Continual Relation Extraction**, ACL (Findings) 2024. ![](https://img.shields.io/badge/Continual_Relation_Extraction-blue)
+
+- **Continual Few-shot Relation Extraction via Adaptive Gradient Correction and Knowledge Decomposition**, ACL (Findings) 2024. ![](https://img.shields.io/badge/Continual_Relation_Extraction-blue) [[pdf](https://openreview.net/pdf?id=vOqY1TqNYM)]
+
+- **Continual Learning with Semi-supervised Contrastive Distillation for Incremental Neural Machine Translation**, ACL 2024. ![](https://img.shields.io/badge/Continual_Machine_Translation-violet) [[pdf](https://openreview.net/pdf?id=iT-OMlYozIs)]
+
+- **Interpretable Catastrophic Forgetting of Large Language Model Fine-tuning via Instruction Vector**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2406.12227v2)]
+
+- **Learn it or Leave it: Module Composition and Pruning for Continual Learning**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2406.18708)] [[Code](https://github.com/boschresearch/MoCL-Pruning)]
+
+- **Dirichlet Continual Learning: Tackling Catastrophic Forgetting in NLP**, UAI 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://openreview.net/pdf?id=jve2maFPzf)]
+
+- **PromptDSI: Prompt-based Rehearsal-free Instance-wise Incremental Learning for Document Retrieval**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2406.12593)]
+
+- **Revisiting Catastrophic Forgetting in Large Language Model Tuning**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2406.04836)] [[Code](https://github.com/Li-Hyn/LLM_CatastrophicForgetting)]
+
+- **HFT: Half Fine-Tuning for Large Language Models**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2404.18466)]
+
+- **Overcoming Catastrophic Forgetting by Exemplar Selection in Task-oriented Dialogue System**, ACL 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2405.10992)]
+
+- **SAPT: A Shared Attention Framework for Parameter-Efficient Continual Learning of Large Language Models**, ACL 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2401.08295)] [[Code](https://github.com/circle-hit/SAPT)]
+
+- **Self-Evolving GPT: A Lifelong Autonomous Experiential Learner**, ACL 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2407.08937)]
+
+- **LoRAMoE: Alleviating World Knowledge Forgetting in Large Language Models via MoE-Style Plugin**, ACL 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2312.09979)] [[Code](https://github.com/Ablustrund/LoRAMoE)]
+
+- **Mitigate Negative Transfer with Similarity Heuristic Lifelong Prompt Tuning**, ACL (Findings) 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2406.12251)] [[Code](https://github.com/wcyno23/SHLPT)]
+
+- **Q-Tuning: Queue-based Prompt Tuning for Lifelong Few-shot Language Learning**, NAACL(Findings) 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2404.14607)]
+
+- **Sequential Editing for Lifelong Training of Speech Recognition Models**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Knowledge_Editing-black) [[pdf](https://www.arxiv.org/pdf/2406.17935)]
+
+- **WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Knowledge_Editing-black) [[pdf](https://arxiv.org/pdf/2405.14768)] [[Code](https://github.com/zjunlp/EasyEdit)]
+
+- **Lifelong Knowledge Editing for LLMs with Retrieval-Augmented Continuous Prompt Learning**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Knowledge_Editing-black) [[pdf](https://arxiv.org/pdf/2405.03279)]
+
+- **Detoxifying Large Language Models via Knowledge Editing**, ACL 2024. ![](https://img.shields.io/badge/Continual_Knowledge_Editing-black) [[pdf](https://arxiv.org/pdf/2403.14472)] [[Code](https://www.zjukg.org/project/SafeEdit/)]
+
+- **Model Editing at Scale leads to Gradual and Catastrophic Forgetting**, ACL (Findings) 2024. ![](https://img.shields.io/badge/Continual_Knowledge_Editing-black) [[pdf](https://arxiv.org/pdf/2401.07453)]
+
+- **Can We Continually Edit Language Models? On the Knowledge Attenuation in Sequential Model Editing**, ACL (Findings) 2024. ![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
+
+- **HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models**, Preprint 2024. ![](https://img.shields.io/badge/Retrieval_Based_Lifelong_Learning-beige) [[pdf](https://arxiv.org/pdf/2405.14831)] [[Code](https://github.com/OSU-NLP-Group/HippoRAG)]
+
+- **Towards Practical Tool Usage for Continually Learning LLMs**, Preprint 2024. ![](https://img.shields.io/badge/Tool_Based_Lifelong_Learning-khaki) [[pdf](https://arxiv.org/pdf/2404.09339)]
+
+- **LoRA Learns Less and Forgets Less**, Preprint 2024. ![](https://img.shields.io/badge/Mechanism-gray) [[pdf](https://arxiv.org/pdf/2405.09673)]
+
 
 #### 2024 (2024.01-2024.04)
 - **CorpusBrain++: A Continual Generative Pre-Training Framework for Knowledge-Intensive Language Tasks**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) [[pdf](https://arxiv.org/pdf/2402.16767)] [[Code](https://github.com/Sherlock-coder/CorpusBrainPlusPlus)]
