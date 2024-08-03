@@ -104,7 +104,7 @@ Coming soon!
 
 - **Mitigating Catastrophic Forgetting in Language Transfer via Model Merging**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange) ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2407.08699v1)]
 
-- **Reuse, Don’t Retrain: A Recipe for Continued Pretraining of Language Models**, NIPS 2023. ![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange) [[pdf](https://arxiv.org/pdf/2407.07263v1)]
+- **Reuse, Don’t Retrain: A Recipe for Continued Pretraining of Language Models**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange) [[pdf](https://arxiv.org/pdf/2407.07263v1)]
 
 - **Breaking Language Barriers: Cross-Lingual Continual Pre-Training at Scale**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange) [[pdf](https://www.arxiv.org/pdf/2407.02118)]
 
