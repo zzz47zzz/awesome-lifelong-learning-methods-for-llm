@@ -136,6 +136,8 @@ Coming soon!
 
 - **Continual Learning with Semi-supervised Contrastive Distillation for Incremental Neural Machine Translation**, ACL 2024. ![](https://img.shields.io/badge/Continual_Machine_Translation-violet) [[pdf](https://openreview.net/pdf?id=iT-OMlYozIs)]
 
+- **Continual Dialogue State Tracking via Reason-of-Select Distillation**, ACL (Findings) 2024, ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://aclanthology.org/2024.findings-acl.422.pdf)]
+
 - **Interpretable Catastrophic Forgetting of Large Language Model Fine-tuning via Instruction Vector**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2406.12227v2)]
 
 - **Learn it or Leave it: Module Composition and Pruning for Continual Learning**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2406.18708)] [[Code](https://github.com/boschresearch/MoCL-Pruning)]
