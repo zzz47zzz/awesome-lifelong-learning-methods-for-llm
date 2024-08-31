@@ -122,6 +122,8 @@ Coming soon!
 
 - **XMC-Agent : Dynamic Navigation over Scalable Hierarchical Index for Incremental Extreme Multi-label Classification**, ACL (Findings) 2024. ![](https://img.shields.io/badge/Continual_Text_Classification-green) [[pdf](https://openreview.net/pdf?id=RQTgBAGNoi)]
 
+- **Learn or Recall? Revisiting Incremental Learning with Pre-trained Language Models**, ACL 2024. ![](https://img.shields.io/badge/Continual_Text_Classification-green) ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) ![](https://img.shields.io/badge/Continual_Relation_Extraction-blue) [[pdf](https://arxiv.org/pdf/2312.07887)] [[Code](https://github.com/zzz47zzz/pretrained-lm-for-incremental-learning)]
+
 - **Flexible Weight Tuning and Weight Fusion Strategies for Continual Named Entity Recognition**, ACL (Findings) 2024. ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen)
 
 - **Distilling Causal Effect of Data in Continual Few-shot Relation Learning**, LREC-COLING 2024. ![](https://img.shields.io/badge/Continual_Relation_Extraction-blue) [[pdf](https://aclanthology.org/2024.lrec-main.451.pdf)] [[Code](https://github.com/ywh140/CECF)]
@@ -174,6 +176,8 @@ Coming soon!
 
 - **Can We Continually Edit Language Models? On the Knowledge Attenuation in Sequential Model Editing**, ACL (Findings) 2024. ![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
 
+- **Incremental Sequential Labeling: A Tale of Two Shifts**, ACL 2024 (Findings). ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) [[pdf](https://arxiv.org/pdf/2402.10447)]
+
 - **HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models**, Preprint 2024. ![](https://img.shields.io/badge/Retrieval_Based_Lifelong_Learning-beige) [[pdf](https://arxiv.org/pdf/2405.14831)] [[Code](https://github.com/OSU-NLP-Group/HippoRAG)]
 
 - **Towards Practical Tool Usage for Continually Learning LLMs**, Preprint 2024. ![](https://img.shields.io/badge/Tool_Based_Lifelong_Learning-khaki) [[pdf](https://arxiv.org/pdf/2404.09339)]
@@ -204,8 +208,6 @@ Coming soon!
 - **Bayesian Parameter-Efficient Fine-Tuning for Overcoming Catastrophic Forgetting**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Text_Classification-green) [[pdf](https://arxiv.org/pdf/2402.12220)] [[Code](https://recherchetts.github.io/bayesian-peft/)]
 
 - **Rehearsal-Free Modular and Compositional Continual Learning for Language Models**, NAACL 2024. ![](https://img.shields.io/badge/Continual_Text_Classification-green) [[pdf](https://arxiv.org/pdf/2404.00790)]
-
-- **Incremental Sequential Labeling: A Tale of Two Shifts**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) [[pdf](https://arxiv.org/pdf/2402.10447)]
 
 - **Few-shot Incremental Event Detection**, TALLIP 2024. ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) [[pdf](https://dl.acm.org/doi/pdf/10.1145/3634747)]
 
@@ -262,8 +264,6 @@ Coming soon!
 - **Lifelong Language Pretraining with Distribution-Specialized Experts**, ICML 2023. ![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange) [[pdf](https://openreview.net/pdf?id=Q4QFG5Fe4O)]
 
 - **Mitigating Catastrophic Forgetting in Task-Incremental Continual Learning with Adaptive Classification Criterion**, Preprint 2023. ![](https://img.shields.io/badge/Continual_Text_Classification-green) [[pdf](https://arxiv.org/pdf/2305.12270)]
-
-- **Learn or Recall? Revisiting Incremental Learning with Pre-trained Language Models**, Preprint 2023. ![](https://img.shields.io/badge/Continual_Text_Classification-green) ![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen) ![](https://img.shields.io/badge/Continual_Relation_Extraction-blue) [[pdf](https://arxiv.org/pdf/2312.07887)] [[Code](https://github.com/zzz47zzz/pretrained-lm-for-incremental-learning)]
 
 - **Rehearsal-free Continual Language Learning via Efficient Parameter Isolation**, ACL 2023. ![](https://img.shields.io/badge/Continual_Text_Classification-green) [[pdf](https://aclanthology.org/2023.acl-long.612.pdf)] [[Code](https://github.com/Dicer-Zz/EPI)]
 
