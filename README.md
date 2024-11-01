@@ -82,9 +82,67 @@ Please refer to [this repository](https://github.com/zzz47zzz/codebase-for-incre
 
 ### Papers
 
+#### 2024 (2024.11-2025.1)
+
+Coming soon!
+
 #### 2024 (2024.08-2024.10)
 
 Coming soon!
+
+- **Language Models as Feature Extractors for Accurate Continual Learning**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Text_Classification-green)
+
+- **Towards Efficient and No Forgetting Domain Continual Pretraining by Mitigating the Stability Gap**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
+
+- **Data Efficient Continual Learning of Large Language Model**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
+
+- **Spurious Forgetting in Continual Learning of Language Models**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)![](https://img.shields.io/badge/Continual_Alignment-lightgray)
+
+- **NIRANTAR: Continual Learning with New Languages and Domains on Real-world Speech Data**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange)
+
+- **Continual Memorization of Factoids in Large Language Models**, Preprint Openreview 2024.![](https://img.shields.io/badge/Mechanism-gray)
+
+- **Contextual Experience Replay for Continual Learning of Language Agents**, Preprint Openreview 2024.![](https://img.shields.io/badge/Retrieval_Based_Lifelong_Learning-beige)
+
+- **Balancing Continuous Pre-Training and Instruction Fine-Tuning: Optimizing Instruction-Following in LLMs**, Preprint 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
+
+- **Is Parameter Collision Hindering Continual Learning in LLMs?**, Preprint 2024.![](https://img.shields.io/badge/Mechanism-gray)
+
+- **SLIM: Let LLM Learn More and Forget Less with Soft LoRA and Identity Mixture**, Preprint 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
+
+- **Lifelong Event Detection via Optimal Transport**, EMNLP 2024.![](https://img.shields.io/badge/Continual_Relation_Extraction-blue)
+
+- **A Closer Look at Machine Unlearning for Large Language Models**, Preprint 2024.![](https://img.shields.io/badge/Mechanism-gray)
+
+- **MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code**, Preprint 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
+
+- **LoRAMoE: Alleviating World Knowledge Forgetting in Large Language Models via MoE-Style Plugin**, ACL 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
+
+- **LeanAgent: Lifelong Learning for Formal Theorem Proving**, Preprint 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
+
+- **NusaMT-7B: Machine Translation for Low-Resource Indonesian Languages with Large Language Models**, Preprint 2024.![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange)
+
+- **Learning Attentional Mixture of LoRAs for Language Model Continual Learning**, Preprint 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
+
+- **Beyond Prompts: Dynamic Conversational Benchmarking of Large Language Models**, Preprint 2024.![](https://img.shields.io/badge/Retrieval_Based_Lifelong_Learning-beige)
+
+- **Synthetic continued pretraining**, Preprint 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
+
+- **Alleviating Hallucinations in Large Language Models with Scepticism Modeling**, Preprint 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
+
+- **A Practice of Post-Training on Llama-3 70B with Optimal Selection of Additional Language Mixture Ratio**, Preprint 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange)
+
+- **Does RoBERTa Perform Better than BERT in Continual Learn- ing: An Attention Sink Perspective**, CoLM.![](https://img.shields.io/badge/Mechanism-gray)
+
+- **Enhance Lifelong Model Editing with Continuous Data-Adapter Association**, Preprint 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
+
+- **TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning**, Preprint 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
+
+- **Continual Dialogue State Tracking via Reason-of-Select Distillation**, Findings of ACL 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
+
+- **RedWhale: An Adapted Korean LLM Through Efficient Continual Pretraining**, Preprint 2024.![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-red)
+
+- **PMoE: Progressive Mixture of Experts with Asymmetric Transformer for Continual Learning**, Preprint 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
 
 #### 2024 (2024.05-2024.07)
 
