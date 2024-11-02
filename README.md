@@ -88,7 +88,53 @@ Coming soon!
 
 #### 2024 (2024.08-2024.10)
 
-Coming soon!
+
+
+- **Should We Really Edit Language Models? On the Evaluation of Edited Language Models**, Preprint 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
+
+- **LEMoE: Advanced Mixture of Experts Adaptor for Lifelong Model Editing of Large Language Models**, EMNLP 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
+
+- **Exploring Continual Fine-Tuning for Enhancing Language Ability in Large Language Model**, Preprint 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
+
+- **ToW: Thoughts of Words Improve Reasoning in Large Language Models**, Preprint 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
+
+- **SeQuiFi: Mitigating Catastrophic Forgetting in Speech Emotion Recognition with Sequential Class-Finetuning**, Preprint 2024.(Speech)
+
+- **In-context KV-Cache Eviction for LLMs via Attention-Gate**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
+
+- **In Praise of Stubbornness: The Case for Cognitive-Dissonance Aware Continual Update of Knowledge in LLMs**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
+
+- **Self-Updatable Large Language Models with Parameter Integration**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
+
+- **Structure-aware Domain Knowledge Injection for Large Language Models**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
+
+- **Perturbation-Restrained Sequential Model Editing**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
+
+- **Programming Every Example: Lifting Pre-training Data Quality like Experts at Scale**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
+
+- **Data Mixing Laws: Optimizing Data Mixtures by Predicting Language Modeling Performance**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
+
+- **Knowledge And Capability Transfer Through Large Language Models' Parameters Fusing**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
+
+- **Amuro and Char: Analyzing the Relationship between Pre-Training and Fine-Tuning of Large Language Models**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
+
+- **CollabEdit: Towards Non-destructive Collaborative Knowledge Editing**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
+
+- **ToEdit: How to Synthesize Text Data to Avoid Model Collapse?**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
+
+- **In-Context Editing: Learning Knowledge from Self-Induced Distributions**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
+
+- **Math for AI: On the Generalization of Learning Mathematical Problem Solving**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
+
+- **Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
+
+- **Mix-CPT: A Domain Adaptation Framework via Decoupling Knowledge Learning and Format Alignment**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
+
+- **EMMA-500: Enhancing Massively Multilingual Adaptation of Large Language Models**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange)
+
+- **Locate-then-Unlearn: An Effective Method of Multi-Task Continuous Learning for Large Language Models**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
+
+- **GE-PEFT: Gated Expandable Parameter-Efficient Fine-Tuning for Continual Learning**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Text_Classification-green)
 
 - **Language Models as Feature Extractors for Accurate Continual Learning**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Text_Classification-green)
 
@@ -136,13 +182,21 @@ Coming soon!
 
 - **Enhance Lifelong Model Editing with Continuous Data-Adapter Association**, Preprint 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
 
-- **TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning**, Preprint 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
+- **TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning**, ACL 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
 
 - **Continual Dialogue State Tracking via Reason-of-Select Distillation**, Findings of ACL 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
 
 - **RedWhale: An Adapted Korean LLM Through Efficient Continual Pretraining**, Preprint 2024.![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-red)
 
 - **PMoE: Progressive Mixture of Experts with Asymmetric Transformer for Continual Learning**, Preprint 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
+
+- **WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models**, NIPS 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
+
+- **TiC-LM: A Multi-Year Benchmark for Continual Pretraining of Language Models**, NIPS 2024 Workshop. ![](https://img.shields.io/badge/Continual_Temporal_Domain_Pretraining-yellow) 
+
+- **Forgetting before Learning: Utilizing Parametric Arithmetic for Knowledge Updating in Large Language Models**, ACL 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
+
+- **Overcoming Catastrophic Forgetting by Exemplar Selection in Task-oriented Dialogue System**, Findings of ACL 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
 
 #### 2024 (2024.05-2024.07)
 
@@ -224,8 +278,6 @@ Coming soon!
 
 - **Sequential Editing for Lifelong Training of Speech Recognition Models**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Knowledge_Editing-black) [[pdf](https://www.arxiv.org/pdf/2406.17935)]
 
-- **WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Knowledge_Editing-black) [[pdf](https://arxiv.org/pdf/2405.14768)] [[Code](https://github.com/zjunlp/EasyEdit)]
-
 - **Lifelong Knowledge Editing for LLMs with Retrieval-Augmented Continuous Prompt Learning**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Knowledge_Editing-black) [[pdf](https://arxiv.org/pdf/2405.03279)]
 
 - **Detoxifying Large Language Models via Knowledge Editing**, ACL 2024. ![](https://img.shields.io/badge/Continual_Knowledge_Editing-black) [[pdf](https://arxiv.org/pdf/2403.14472)] [[Code](https://www.zjukg.org/project/SafeEdit/)]
@@ -279,7 +331,7 @@ Coming soon!
 
 - **Analyzing and Reducing Catastrophic Forgetting in Parameter Efficient Tuning**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2402.18865)] [[Code](https://github.com/which47/LLMCL)]
 
-- **Mitigating Catastrophic Forgetting in Large Language Models with Self-Synthesized Rehearsal**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2403.01244)]
+- **Mitigating Catastrophic Forgetting in Large Language Models with Self-Synthesized Rehearsal**, ACL 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2403.01244)]
 
 - **Scalable Language Model with Generalized Continual Learning**, ICLR 2024. ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://openreview.net/pdf?id=mz8owj4DXu)] [[Code](https://github.com/Pbihao/SLM)]
 
