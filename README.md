@@ -1,4 +1,4 @@
-# Awesome Lifelong Learning Methods for Large Language Models (Updated Regularly, Add Papers from ACL 2024)
+# Awesome Lifelong Learning Methods for Large Language Models (Updated Regularly; Add Papers from NIPS2024, EMNLP2024, ACL2024, and ICLR2025 Submissions)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -89,10 +89,23 @@ Coming soon!
 #### 2024 (2024.08-2024.10)
 
 
+- **WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models**, NIPS 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
 
-- **Should We Really Edit Language Models? On the Evaluation of Edited Language Models**, Preprint 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
+- **Train-Attention: Meta-Learning Where to Focus in Continual Knowledge Learning**, NIPS 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
+
+- **D-CPT Law: Domain-specific Continual Pre-Training Scaling Law for Large Language Models**, NIPS 2024. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) 
+
+- **TiC-LM: A Multi-Year Benchmark for Continual Pretraining of Language Models**, NIPS 2024 Workshop. ![](https://img.shields.io/badge/Continual_Temporal_Domain_Pretraining-yellow)
+
+- **Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack**, NIPS 2024 (Database&Benchmark Track)![](https://img.shields.io/badge/Retrieval_Based_Lifelong_Learning-beige) 
+
+- **Does RoBERTa Perform Better than BERT in Continual Learn- ing: An Attention Sink Perspective**, CoLM.![](https://img.shields.io/badge/Mechanism-gray)
 
 - **LEMoE: Advanced Mixture of Experts Adaptor for Lifelong Model Editing of Large Language Models**, EMNLP 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
+
+- **Lifelong Event Detection via Optimal Transport**, EMNLP 2024.![](https://img.shields.io/badge/Continual_Relation_Extraction-blue)
+
+- **Should We Really Edit Language Models? On the Evaluation of Edited Language Models**, Preprint 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
 
 - **Exploring Continual Fine-Tuning for Enhancing Language Ability in Large Language Model**, Preprint 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
 
@@ -156,13 +169,10 @@ Coming soon!
 
 - **SLIM: Let LLM Learn More and Forget Less with Soft LoRA and Identity Mixture**, Preprint 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
 
-- **Lifelong Event Detection via Optimal Transport**, EMNLP 2024.![](https://img.shields.io/badge/Continual_Relation_Extraction-blue)
-
 - **A Closer Look at Machine Unlearning for Large Language Models**, Preprint 2024.![](https://img.shields.io/badge/Mechanism-gray)
 
 - **MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code**, Preprint 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
 
-- **LoRAMoE: Alleviating World Knowledge Forgetting in Large Language Models via MoE-Style Plugin**, ACL 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
 
 - **LeanAgent: Lifelong Learning for Formal Theorem Proving**, Preprint 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
 
@@ -178,23 +188,19 @@ Coming soon!
 
 - **A Practice of Post-Training on Llama-3 70B with Optimal Selection of Additional Language Mixture Ratio**, Preprint 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange)
 
-- **Does RoBERTa Perform Better than BERT in Continual Learn- ing: An Attention Sink Perspective**, CoLM.![](https://img.shields.io/badge/Mechanism-gray)
-
-- **Enhance Lifelong Model Editing with Continuous Data-Adapter Association**, Preprint 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
-
-- **TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning**, ACL 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
-
-- **Continual Dialogue State Tracking via Reason-of-Select Distillation**, Findings of ACL 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
-
 - **RedWhale: An Adapted Korean LLM Through Efficient Continual Pretraining**, Preprint 2024.![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-red)
 
 - **PMoE: Progressive Mixture of Experts with Asymmetric Transformer for Continual Learning**, Preprint 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
 
-- **WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models**, NIPS 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
+- **Enhance Lifelong Model Editing with Continuous Data-Adapter Association**, Preprint 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
 
-- **TiC-LM: A Multi-Year Benchmark for Continual Pretraining of Language Models**, NIPS 2024 Workshop. ![](https://img.shields.io/badge/Continual_Temporal_Domain_Pretraining-yellow) 
+- **LoRAMoE: Alleviating World Knowledge Forgetting in Large Language Models via MoE-Style Plugin**, ACL 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
+
+- **TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning**, ACL 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
 
 - **Forgetting before Learning: Utilizing Parametric Arithmetic for Knowledge Updating in Large Language Models**, ACL 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
+
+- **Continual Dialogue State Tracking via Reason-of-Select Distillation**, Findings of ACL 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
 
 - **Overcoming Catastrophic Forgetting by Exemplar Selection in Task-oriented Dialogue System**, Findings of ACL 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
 
@@ -204,7 +210,6 @@ Coming soon!
 
 - **Large Language Model Can Continue Evolving From Mistakes**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) ![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple) [[pdf](https://arxiv.org/pdf/2404.08707)]
 
-- **D-CPT Law: Domain-specific Continual Pre-Training Scaling Law for Large Language Models**, Preprint 2024. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) [[pdf](https://arxiv.org/pdf/2406.01375)]
 
 - **COPAL: Continual Pruning in Large Language Generative Models**, ICML 2024. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red) [[pdf](https://arxiv.org/pdf/2405.02347)]
 
