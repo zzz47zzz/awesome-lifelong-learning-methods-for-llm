@@ -11,7 +11,8 @@
 
 ## Introduction
 This repository collects awesome survey, resource, and paper for Lifelong Learning with Large Language Models. 
-Please refer to [this survey](https://arxiv.org/abs/2406.06391) for detailed introduction.
+We define 12 lifelong learning scenarios as follows. Please refer to [this survey](https://arxiv.org/abs/2406.06391) for detailed introduction.
+![image](https://github.com/user-attachments/assets/2d448584-2225-4ef2-9dc8-c94025958f83)
 Please refer to [this repository](https://github.com/zzz47zzz/codebase-for-incremental-learning-with-llm) for implementation.
 
 ## Survey
