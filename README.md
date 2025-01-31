@@ -1,4 +1,4 @@
-# 🚀 Awesome Lifelong Learning Methods for Large Language Models (Updated Regularly; Add Papers from NIPS2024, EMNLP2024, ACL2024, and ICLR2025 Submissions)
+# 🚀 Awesome Lifelong Learning Methods for Large Language Models (Updated Regularly; Latest Papers from NIPS2024, EMNLP2024, COLING2025, AAAI 2025, and ICLR2025)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![arXiv](https://img.shields.io/badge/arXiv-lifelong_LLM-b31b1b.svg)](https://arxiv.org/pdf/2406.06391)
 
@@ -53,12 +53,88 @@ Additionally, you can refer to [this repository](https://github.com/qianlima-lab
 
 ### Paper List 📚
 
-#### 2024 (2024.11-2025.1) 📅
+#### 2025 (2025.2-2025.5) 📅
 Coming soon! ⏳
 
+#### 2024 (2024.11-2025.1) 📅
+
+- **Self-Updatable Large Language Models with Parameter Integration**, ICLR 2025.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
+
+- **Synthetic continued pretraining**, ICLR 2025.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
+
+- **Last Iterate Convergence of Incremental Methods as a Model of Forgetting**, ICLR 2025. ![](https://img.shields.io/badge/Mechanism-gray) 
+
+- **Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning**, ICLR 2025.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)![](https://img.shields.io/badge/Mechanism-gray) 
+
+- **Perturbation-Restrained Sequential Model Editing**, ICLR 2025.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
+
+- **In-Context Editing: Learning Knowledge from Self-Induced Distributions**, ICLR 2025.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
+
+- **Adaptive Prompting for Continual Relation Extraction: A Within-Task Variance Perspective**, AAAI 2025.![](https://img.shields.io/badge/Continual_Relation_Extraction-blue)
+
+- **CMT: A Memory Compression Method for Continual Knowledge Learning of Large Language Models**, AAAI 2025.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
+
+- **Continual Learning Using a Kernel-Based Method Over Foundation Models**, AAAI 2025.![](https://img.shields.io/badge/Continual_Text_Classification-green)
+
+- **CareBot: A Pioneering Full-Process Open-Source Medical Language Model**, AAAI 2025.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-orange)
+
+- **Domain-adaptative Continual Learning for Low-resource Tasks: Evaluation on Nepali**, COLING 2025.![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange)
+
+- **In-context Continual Learning Assisted by an External Continual Learner**, COLING 2025.![](https://img.shields.io/badge/Continual_Text_Classification-green)
+
+- **Continual Learning Using Only Large Language Model Prompting**, COLING 2025.![](https://img.shields.io/badge/Continual_Text_Classification-green)
+
+- **Rethinking Long Context Generation from the Continual Learning Perspective**, COLING 2025.![](https://img.shields.io/badge/Mechanism-gray)
+
+- **Dynamic-prototype Contrastive Fine-tuning for Continual Few-shot Relation Extraction with Unseen Relation Detection**, COLING 2025.![](https://img.shields.io/badge/Continual_Relation_Extraction-blue)
+
+- **Discarding the Crutches: Adaptive Parameter-Efficient Expert Meta-Learning for Continual Semantic Parsing**, COLING 2025. (Semantic Parsing)
+
+- **TL-CL: Task And Language Incremental Continual Learning**, EMNLP 2024.![](https://img.shields.io/badge/Continual_Machine_Translation-violet)
+
+- **SEEKR: Selective Attention-Guided Knowledge Retention for Continual Learning of Large Language Models**, EMNLP 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
+
+- **Mitigating Catastrophic Forgetting in Language Transfer via Model Merging**, Findings of EMNLP 2024. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
+
+- **Gradient Localization Improves Lifelong Pretraining of Language Models**, Findings of EMNLP 2024. ![](https://img.shields.io/badge/Continual_Temporal_Domain_Pretraining-red)
+
+- **Learn more, but bother less: parameter efficient continual learning**, NIPS 2024.![](https://img.shields.io/badge/Continual_Text_Classification-green)
+
+- **Continual Learning with Global Alignment**, NIPS 2024.![](https://img.shields.io/badge/Continual_Text_Classification-green)
+
+- **Continual Audio-Visual Sound Separation**, NIPS 2024. (Audio)
+
+- **Should We Really Edit Language Models? On the Evaluation of Edited Language Models**, NIPS 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
+
+- **Continual Learning with Embedding Layer Surgery and Task-wise Beam Search using Whisper**, IEEE Spoken Language Technology Workshop. (Speech)
+
+- **Chained Tuning Leads to Biased Forgetting**, ICML 2024 Workshop.![](https://img.shields.io/badge/Mechanism-gray) 
+
+- **LOIRE: LifelOng learning on Incremental data via pre-trained language model gRowth Efficiently**, OpenReview Preprint. ![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
+
+- **Learning Beyond the Surface: How Far Can Continual Pre-Training with LoRA Enhance LLMs' Domain-Specific Insight Learning?**, Preprint.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
+
+- **Continual Memorization of Factoids in Large Language Models**, Preprint.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
+
+- **Boosting Tool Use of Large Language Models via Iterative Reinforced Fine-Tuning**, Preprint.![](https://img.shields.io/badge/Tool_Based_Lifelong_Learning-khaki)
+
+- **Continual Learning for Encoder-only Language Models via a Discrete Key-Value Bottleneck**, Preprint.![](https://img.shields.io/badge/Continual_Text_Classification-green)
+
+- **CPRM: A LLM-based Continual Pre-training Framework for Relevance Modeling in Commercial Search**, Preprint.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
+
+- **Velocitune: A Velocity-based Dynamic Domain Reweighting Method for Continual Pre-training**, Preprint.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
+
+- **Federated Incremental Named Entity Recognition**, Preprint.![](https://img.shields.io/badge/Continual_Named_Entity_Recognition-brightgreen)
+
+- **Reviving Dormant Memories: Investigating Catastrophic Forgetting in Language Models through Rationale-Guidance Difficulty**, Preprint.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
+
+- **Exploring Forgetting in Large Language Model Pre-Training**, Preprint.![](https://img.shields.io/badge/Mechanism-gray)
+
+- **Efficient Continual Pre-training of LLMs for Low-resource Languages**, Preprint.![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange)
+
+- **EvoWiki: Evaluating LLMs on Evolving Knowledge**, Preprint.![](https://img.shields.io/badge/Continual_Temporal_Domain_Pretraining-orange)
 
 #### 2024 (2024.08-2024.10) 📅
-
 
 - **WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models**, NIPS 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
 
@@ -88,11 +164,7 @@ Coming soon! ⏳
 
 - **In Praise of Stubbornness: The Case for Cognitive-Dissonance Aware Continual Update of Knowledge in LLMs**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
 
-- **Self-Updatable Large Language Models with Parameter Integration**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
-
 - **Structure-aware Domain Knowledge Injection for Large Language Models**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
-
-- **Perturbation-Restrained Sequential Model Editing**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
 
 - **Programming Every Example: Lifting Pre-training Data Quality like Experts at Scale**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
 
