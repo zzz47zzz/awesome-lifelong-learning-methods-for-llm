@@ -58,6 +58,16 @@ Coming soon! ⏳
 
 #### 2024 (2024.11-2025.1) 📅
 
+- **Spurious Forgetting in Continual Learning of Language Models**, ICLR 2025.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)![](https://img.shields.io/badge/Continual_Alignment-lightgray)
+
+- **Knowledge And Capability Transfer Through Large Language Models' Parameters Fusing**, ICLR 2025.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
+
+- **CollabEdit: Towards Non-destructive Collaborative Knowledge Editing**, ICLR 2025.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
+
+- **MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code**, ICLR 2025.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
+
+- **Mix-CPT: A Domain Adaptation Framework via Decoupling Knowledge Learning and Format Alignment**, ICLR 2025.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
+
 - **Self-Updatable Large Language Models with Parameter Integration**, ICLR 2025.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
 
 - **Synthetic continued pretraining**, ICLR 2025.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
@@ -114,8 +124,6 @@ Coming soon! ⏳
 
 - **Learning Beyond the Surface: How Far Can Continual Pre-Training with LoRA Enhance LLMs' Domain-Specific Insight Learning?**, Preprint.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
 
-- **Continual Memorization of Factoids in Large Language Models**, Preprint.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
-
 - **Boosting Tool Use of Large Language Models via Iterative Reinforced Fine-Tuning**, Preprint.![](https://img.shields.io/badge/Tool_Based_Lifelong_Learning-khaki)
 
 - **Continual Learning for Encoder-only Language Models via a Discrete Key-Value Bottleneck**, Preprint.![](https://img.shields.io/badge/Continual_Text_Classification-green)
@@ -168,23 +176,13 @@ Coming soon! ⏳
 
 - **Programming Every Example: Lifting Pre-training Data Quality like Experts at Scale**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
 
-- **Data Mixing Laws: Optimizing Data Mixtures by Predicting Language Modeling Performance**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
-
-- **Knowledge And Capability Transfer Through Large Language Models' Parameters Fusing**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
+- **Data Mixing Laws: Optimizing Data Mixtures by Predicting Language Modeling Performance**, Preprint.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
 
 - **Amuro and Char: Analyzing the Relationship between Pre-Training and Fine-Tuning of Large Language Models**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
 
-- **CollabEdit: Towards Non-destructive Collaborative Knowledge Editing**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
-
 - **ToEdit: How to Synthesize Text Data to Avoid Model Collapse?**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
 
-- **In-Context Editing: Learning Knowledge from Self-Induced Distributions**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)
-
 - **Math for AI: On the Generalization of Learning Mathematical Problem Solving**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
-
-- **Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
-
-- **Mix-CPT: A Domain Adaptation Framework via Decoupling Knowledge Learning and Format Alignment**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
 
 - **EMMA-500: Enhancing Massively Multilingual Adaptation of Large Language Models**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange)
 
@@ -197,8 +195,6 @@ Coming soon! ⏳
 - **Towards Efficient and No Forgetting Domain Continual Pretraining by Mitigating the Stability Gap**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
 
 - **Data Efficient Continual Learning of Large Language Model**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
-
-- **Spurious Forgetting in Continual Learning of Language Models**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)![](https://img.shields.io/badge/Continual_Knowledge_Editing-black)![](https://img.shields.io/badge/Continual_Alignment-lightgray)
 
 - **NIRANTAR: Continual Learning with New Languages and Domains on Real-world Speech Data**, Preprint Openreview 2024.![](https://img.shields.io/badge/Continual_Language_Domain_Pretraining-orange)
 
@@ -214,7 +210,6 @@ Coming soon! ⏳
 
 - **A Closer Look at Machine Unlearning for Large Language Models**, Preprint 2024.![](https://img.shields.io/badge/Mechanism-gray)
 
-- **MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code**, Preprint 2024.![](https://img.shields.io/badge/Continual_Vertical_Domain_Pretraining-red)
 
 
 - **LeanAgent: Lifelong Learning for Formal Theorem Proving**, Preprint 2024.![](https://img.shields.io/badge/Continual_Instruction_Tuning-purple)
