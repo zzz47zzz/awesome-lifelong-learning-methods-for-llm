@@ -2,7 +2,10 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![arXiv](https://img.shields.io/badge/arXiv-lifelong_LLM-b31b1b.svg)](https://arxiv.org/pdf/2406.06391)
 
-## Introduction 📢 
+## News 📢
+- The interpretation of our survey "Towards Lifelong Learning of Large Language Models: A Survey" is available on [机器之心](https://mp.weixin.qq.com/s/hilVDi-HAac_1DKvv8jv8Q) and [知乎](https://zhuanlan.zhihu.com/p/3352669117)!
+
+## Introduction 📜 
 This repository collects awesome surveys, resources, and papers for **Lifelong Learning** with **Large Language Models**.  
 We define 12 lifelong learning scenarios as follows. Please refer to [this survey](https://arxiv.org/abs/2406.06391) for a detailed introduction.  
 ![image](https://github.com/user-attachments/assets/2d448584-2225-4ef2-9dc8-c94025958f83)
