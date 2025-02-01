@@ -1,9 +1,10 @@
-# 🚀 Awesome Lifelong Learning Methods for Large Language Models (Updated Regularly; Latest Papers from NIPS2024, EMNLP2024, COLING2025, AAAI 2025, and ICLR2025)
+# 🚀 Awesome Lifelong Learning Methods for Large Language Models (Updated Regularly; Latest Papers from NIPS2024, EMNLP2024, COLING2025, AAAI 025, and ICLR2025)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![arXiv](https://img.shields.io/badge/arXiv-lifelong_LLM-b31b1b.svg)](https://arxiv.org/pdf/2406.06391)
 
 ## News 📢
-- The interpretation of our survey "Towards Lifelong Learning of Large Language Models: A Survey" is available on [机器之心](https://mp.weixin.qq.com/s/hilVDi-HAac_1DKvv8jv8Q) and [知乎](https://zhuanlan.zhihu.com/p/3352669117)!
+- **2025.01**: The latest papers from **NIPS2024**, **EMNLP2024**, **COLING2025**, **AAAI2025**, and **ICLR2025** are available!
+- **2024.12**: The interpretation of our survey "Towards Lifelong Learning of Large Language Models: A Survey" is available on [机器之心](https://mp.weixin.qq.com/s/hilVDi-HAac_1DKvv8jv8Q) and [知乎](https://zhuanlan.zhihu.com/p/3352669117)!
 
 ## Introduction 📜 
 This repository collects awesome surveys, resources, and papers for **Lifelong Learning** with **Large Language Models**.  
