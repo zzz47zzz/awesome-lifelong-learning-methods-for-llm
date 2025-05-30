@@ -3,6 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![arXiv](https://img.shields.io/badge/arXiv-lifelong_LLM-b31b1b.svg)](https://arxiv.org/pdf/2406.06391)
 
 ## 📢 Latest News  
+- **2025.06** - We are excited to release the first benchmark [LifelongAgentBench](https://caixd-220529.github.io/LifelongAgentBench/) for lifelong learning of LLM Agents. The paper, source code, datasets are all available!
 - **2025.02** – Our survey **"Towards Lifelong Learning of Large Language Models: A Survey"** is accepted by ACM Computing Surveys! 🙌
 - **2025.01** – The latest research from **NIPS 2024, EMNLP 2024, COLING 2025, AAAI 2025, and ICLR 2025** is now available! Stay updated with the newest advancements in the field.  
 - **2024.12** – Our survey **"Towards Lifelong Learning of Large Language Models: A Survey"** has been featured on [机器之心](https://mp.weixin.qq.com/s/hilVDi-HAac_1DKvv8jv8Q) and [知乎](https://zhuanlan.zhihu.com/p/3352669117)! Check out these platforms for an in-depth interpretation.  
